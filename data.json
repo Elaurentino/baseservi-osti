@@ -1,0 +1,154 @@
+[
+    {
+      "nome": "Manutenção de Hardware",
+      "descricao": "Manutenção preventiva e reparo de componentes físicos.",
+      "serviços": "Troca de pasta térmica, limpeza de componentes, troca de bateria, upgrade de memória RAM/SSD."
+    },
+    {
+      "nome": "Formatação com Instalação de Sistema",
+      "descricao": "Formatação de disco e instalação limpa do sistema operacional (Windows, Linux, etc.).",
+      "links": [
+        {
+          "nome": "Download Windows 11",
+          "url": "https://www.microsoft.com/pt-br/software-download/windows11"
+        },
+        {
+          "nome": "Download Ubuntu Desktop",
+          "url": "https://ubuntu.com/download/desktop"
+        }
+      ]
+    },
+    {
+      "nome": "Atualização de Drivers",
+      "descricao": "Instalação e atualização de drivers de fabricantes para garantir o bom funcionamento do hardware.",
+      "links": [
+        {
+          "nome": "Intel Driver & Support Assistant",
+          "url": "https://www.intel.com.br/content/www/br/pt/download-center/home.html"
+        },
+        {
+          "nome": "Dell Drivers & Downloads",
+          "url": "https://www.dell.com/support/home/pt-br?app=drivers"
+        },
+        {
+          "nome": "Suporte Oficial da Lenovo",
+          "url": "https://support.lenovo.com/br/pt"
+        }
+      ]
+    },
+    {
+      "nome": "Remoção de Vírus e Malware",
+      "descricao": "Verificação completa do sistema, remoção de ameaças e instalação de softwares de proteção.",
+      "ferramentas": "Malwarebytes, AdwCleaner, antivírus de mercado."
+    },
+    {
+      "nome": "Backup e Recuperação de Dados",
+      "descricao": "Criação de rotinas de backup (em nuvem ou local) e recuperação de arquivos deletados ou corrompidos.",
+      "serviços": "Configuração de OneDrive/Google Drive, uso de softwares como Recuva, backups de imagem do sistema."
+    },
+    {
+      "nome": "Instalação e Configuração de Software",
+      "descricao": "Instalação de aplicativos, pacotes de produtividade e softwares de uso específico.",
+      "exemplos": "Pacote Office, Adobe Creative Suite, softwares de engenharia (AutoCAD), ERPs."
+    },
+    {
+      "nome": "Otimização de Desempenho",
+      "descricao": "Ajustes no sistema para melhorar a velocidade, tempo de inicialização e resposta geral do computador.",
+      "serviços": "Limpeza de arquivos temporários, desfragmentação de disco (HDD), gerenciamento de programas de inicialização."
+    },
+    {
+      "nome": "Configuração de Rede (Wi-Fi e Cabeada)",
+      "descricao": "Diagnóstico e solução de problemas de conexão, configuração de roteadores e repetidores.",
+      "serviços": "Configuração de IP, troca de canal do Wi-Fi, crimpagem de cabos de rede, instalação de repetidores de sinal."
+    },
+  {
+    "nome": "Consultoria de TI",
+    "descricao": "Aconselhamento estratégico para alinhar a tecnologia aos objetivos de negócio, otimizando investimentos e processos.",
+    "link": "https://example.com/consultoria",
+    "tags": [
+      "consultoria",
+      "estratégia",
+      "negócios",
+      "otimização"
+    ]
+  },
+  {
+    "nome": "Gestão de Infraestrutura de Nuvem",
+    "descricao": "Gerenciamento de recursos em provedores de nuvem como AWS, Azure e Google Cloud, incluindo configuração, monitoramento e otimização de custos.",
+    "link": "https://aws.amazon.com/professional-services/",
+    "tags": [
+      "cloud",
+      "infraestrutura",
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  },
+  {
+    "nome": "Segurança Cibernética",
+    "descricao": "Implementação de políticas e ferramentas para proteger sistemas, redes e dados contra ameaças digitais, como malware e phishing.",
+    "link": "https://www.kaspersky.com.br/small-to-medium-business-security",
+    "tags": [
+      "segurança",
+      "cybersecurity",
+      "firewall",
+      "antivírus"
+    ]
+  },
+  {
+    "nome": "Administração de Banco de Dados (DBA)",
+    "descricao": "Manutenção, monitoramento, backup e otimização de performance de bancos de dados relacionais e NoSQL.",
+    "link": "https://example.com/dba",
+    "tags": [
+      "banco de dados",
+      "dba",
+      "sql",
+      "nosql",
+      "performance"
+    ]
+  },
+  {
+    "nome": "Suporte de Service Desk",
+    "descricao": "Ponto central de contato para usuários registrarem incidentes e solicitações de serviço, com suporte multinível (N1, N2, N3).",
+    "link": "https://www.atlassian.com/br/software/jira/service-management",
+    "tags": [
+      "suporte",
+      "service desk",
+      "help desk",
+      "itil"
+    ]
+  },
+  {
+    "nome": "Desenvolvimento de Software Sob Demanda",
+    "descricao": "Criação de aplicações personalizadas para atender a requisitos de negócio específicos que não são cobertos por soluções prontas.",
+    "link": "https://example.com/custom-dev",
+    "tags": [
+      "desenvolvimento",
+      "software",
+      "personalizado",
+      "projetos"
+    ]
+  },
+  {
+    "nome": "Gestão de Redes e Conectividade",
+    "descricao": "Monitoramento e manutenção da infraestrutura de rede, incluindo switches, roteadores, firewalls e links de internet.",
+    "link": "https://www.cisco.com/c/pt_br/solutions/managed-services.html",
+    "tags": [
+      "redes",
+      "conectividade",
+      "infraestrutura",
+      "cisco"
+    ]
+  },
+  {
+    "nome": "Serviços de VoIP",
+    "descricao": "Implementação e gerenciamento de sistemas de telefonia baseados em IP, oferecendo uma alternativa flexível à telefonia tradicional.",
+    "link": "https://example.com/voip",
+    "tags": [
+      "voip",
+      "telefonia",
+      "comunicação",
+      "ip"
+    ]
+  }
+]
