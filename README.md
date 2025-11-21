@@ -1,5 +1,5 @@
-⚙️ Base de Prestação de Serviços de TI & Analisador de UpgradeUma  
-aplicação web leve para consulta de serviços de TI e análise básica de hardware com dicas de upgrade.
+⚙️ Base de Prestação de Serviços de TI & Analisador de Upgrade
+Uma aplicação web leve para consulta de serviços de TI e análise básica de hardware com dicas de upgrade.
 Este projeto funciona como uma base de conhecimento rápida para técnicos de informática e, ao mesmo tempo, oferece uma ferramenta interativa para análise e sugestão de upgrades de computadores.
 
 ✨ Recursos Principais (Features)
