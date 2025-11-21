@@ -2,7 +2,9 @@
 aplicação web leve para consulta de serviços de TI e análise básica de hardware com dicas de upgrade.
 Este projeto funciona como uma base de conhecimento rápida para técnicos de informática e, ao mesmo tempo, oferece uma ferramenta interativa para análise e sugestão de upgrades de computadores.
 
-✨ Recursos Principais (Features)🔍 Motor de Busca de Serviços: Permite pesquisar serviços de TI (ex: formatação, drivers, backup) em uma base de conhecimento interna (data.json).
+✨ Recursos Principais (Features)
+
+🔍 Motor de Busca de Serviços: Permite pesquisar serviços de TI (ex: formatação, drivers, backup) em uma base de conhecimento interna (data.json).
 
 💡 Analisador de Upgrade de Hardware: Uma ferramenta interativa que recebe informações de hardware (Processador/Geração, RAM, Armazenamento) e fornece recomendações de upgrade personalizadas.
 
